@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Samsung Galaxy",
+      "brand": "Samsung",
+      "category": "phones",
+      "price": "480",
+      "description": "SmartPhone",
+      "id": 1
+    },
+    {
+      "name": "Laptop",
+      "brand": "Dell",
+      "category": "laptop",
+      "price": "9800",
+      "description": "laptop device",
+      "id": 2
+    },
+    {
+      "name": "iphone 15",
+      "brand": "Apple",
+      "category": "phones",
+      "price": "550",
+      "description": "ApplePhone",
+      "id": 3
+    }
+  ]
+}
